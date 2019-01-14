@@ -7,7 +7,7 @@
       "root": "",
       "sourceRoot": "src",
       "projectType": "application",
-      "prefix": "app",
+      "prefix": "dlo",
       "schematics": {
         "@schematics/angular:component": {
           "styleext": "scss"
